@@ -6,6 +6,7 @@ import androidx.activity.viewModels
 import androidx.core.view.isVisible
 import androidx.lifecycle.Observer
 import com.cursokotlin.mvvmexample.databinding.ActivityMainBinding
+import com.cursokotlin.mvvmexample.ui.BindingAdapters
 import com.cursokotlin.mvvmexample.ui.viewmodel.QuoteViewModel
 
 class MainActivity : AppCompatActivity() {
